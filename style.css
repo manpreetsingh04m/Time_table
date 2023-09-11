@@ -52,7 +52,7 @@ caption{
   height: 60%;
   margin-left: 30px;
 text-align: center;
-
+box-shadow: 10px 10px 10px 10px grey;
 border-collapse: collapse;
 }
 th,td,tr {
@@ -74,6 +74,7 @@ td:hover{
 }
 .lunch{
   font-size: 30px;
+  font-weight: 300;
 }
 .lunch:hover{
   transition: none;
