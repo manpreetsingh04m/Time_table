@@ -71,3 +71,11 @@ tr:nth-child(odd){
 td:hover{
   transform: scale(1.2);
 }
+.lunch{
+  font-size: 40px;
+  font-weight: 900;
+}
+.lunch:hover{
+  transition: none;
+  transform: none;
+}
