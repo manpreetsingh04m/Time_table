@@ -54,6 +54,7 @@ caption{
 text-align: center;
 box-shadow: 10px 10px 10px 10px grey;
 border-collapse: collapse;
+border-bottom:5px solid #D73131;
 }
 th,td,tr {
   
